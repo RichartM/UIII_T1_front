@@ -97,5 +97,4 @@ git push -u origin main
 
 ## Notas
 
-- El carrito no vive en backend; se guarda del lado del frontend en `localStorage`.
 - Para que pedidos y pagos funcionen, los 4 microservicios deben estar levantados en los puertos correctos.
