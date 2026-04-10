@@ -88,7 +88,7 @@ export default function LoginPage() {
           </h1>
           <p className="text-secondary mb-4">
             {mode === 'login'
-              ? 'Usa el MS de login para autenticarte y cargar tu perfil.'
+              ? ''
               : 'Registra un usuario nuevo en el MS de login y entra de inmediato.'}
           </p>
 

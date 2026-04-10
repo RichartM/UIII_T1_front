@@ -58,7 +58,7 @@ export default function ShopPage() {
         <div className="col-md-8">
           <h1 className="mb-2">Catalogo de productos</h1>
           <p className="text-muted">
-            Bienvenido, {user?.nombre_completo || 'usuario'}. Estos datos vienen del MS de productos.
+            Bienvenido, {user?.nombre_completo || 'usuario'}.
           </p>
         </div>
         <div className="col-md-4 text-end">

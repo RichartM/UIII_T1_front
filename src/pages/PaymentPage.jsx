@@ -189,9 +189,7 @@ export default function PaymentPage() {
                 </div>
               </form>
 
-              <div className="alert alert-warning mt-4 small mb-0">
-                Este formulario consume el endpoint real del MS de pagos y valida el pedido con el MS de ordenes.
-              </div>
+              
             </div>
           </div>
         </div>

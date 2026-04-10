@@ -130,7 +130,6 @@ export default function AdminProductsPage() {
         <div className="col-md-8">
           <h1>Administracion de productos</h1>
           <p className="text-muted">
-            Esta vista usa alta, listado, detalle, actualizacion y eliminacion del MS de productos.
           </p>
         </div>
         <div className="col-md-4 text-end">
